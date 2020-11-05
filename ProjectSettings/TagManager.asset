@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Feet
+  - Ingnore by Characters
+  - GroundCollider
+  - Enemy
+  - soil
+  - Weapon
+  - Player Group
+  - Player Sprites
+  - Plant
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - land
+  - TEXTS
+  - UI Canvas
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1055936177
+    locked: 0
+  - name: Character
+    uniqueID: 3282134261
+    locked: 0
+  - name: GUI
+    uniqueID: 2100176699
+    locked: 0
+  - name: UI Canvas
+    uniqueID: 283089201
+    locked: 0
